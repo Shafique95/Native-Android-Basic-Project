@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyCountryProfileDemo</string>
+    <string name="bangladesh_button">Bangladesh</string>
+    <string name="india_button">India</string>
+    <string name="pakishtan_button">Pakishtan</string>
+    <string name="bangladesh_text">
+         Bangladesh, to the east of India on the Bay of Bengal, is a
+        South Asian country marked by lush greenery and many
+        waterways.
+        Its Padma (Ganges), Meghna and Jamuna rivers create
+        fertile plains, and travel by boat is common. On the
+        southern coast, the Sundarbans, an enormous mangrove
+        forest shared with Eastern India, is home to the royal
+        Bengal tiger
+    </string><string name="india_text">
+         Bangladesh, to the east of India on the Bay of Bengal, is a
+        South Asian country marked by lush greenery and many
+        waterways.
+        Its Padma (Ganges), Meghna and Jamuna rivers create
+        fertile plains, and travel by boat is common. On the
+        southern coast, the Sundarbans, an enormous mangrove
+        forest shared with Eastern India, is home to the royal
+        Bengal tiger
+    </string>
+    <string name="pakistan_text">
+         Bangladesh, to the east of India on the Bay of Bengal, is a
+        South Asian country marked by lush greenery and many
+        waterways.
+        Its Padma (Ganges), Meghna and Jamuna rivers create
+        fertile plains, and travel by boat is common. On the
+        southern coast, the Sundarbans, an enormous mangrove
+        forest shared with Eastern India, is home to the royal
+        Bengal tiger
+    </string>
+    <string name="title_text">This is a title</string>
+    <string name="msg_text">Do You Want To Exit</string>
+</resources>
